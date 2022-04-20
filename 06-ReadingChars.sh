@@ -3,12 +3,12 @@
 # If the character is 'N' or 'n' display "NO".
 # No other character will be provided as input.
 
-# read x
-# if [ "$x" = "Y" ] ; then
-#     echo "YES"
-# elif [ "$x" = "N" ] ; then
-#     echo "NO"
-# fi
+read x
+if [ "$x" = "Y" ] ; then
+    echo "YES"
+elif [ "$x" = "N" ] ; then
+    echo "NO"
+fi
 
 # Option 2
 # read x

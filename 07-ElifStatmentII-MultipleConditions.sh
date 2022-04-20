@@ -95,6 +95,6 @@ fi
 
 # Explain:The solution is based on sorting and counting distinct values using wc i.e word count.
 #  So for instance, if you have input as 2,2,1
-#   the value of variable c would be 2 since it counts both these 2's as a single 2 alongwith 1.
-#    So logically your input 2,2,1 becomes 2,1 and word count gives you a count of distinct lines and thus variable c holds a value of 2 and thus its isoceles.
-#     And if the input is 3,3,3 then all these 3's are counted once and then the wc command would return the value of variable c as 1 and thus it would be equilateral.
+#the value of variable c would be 2 since it counts both these 2's as a single 2 alongwith 1.
+# So logically your input 2,2,1 becomes 2,1 and word count gives you a count of distinct lines and thus variable c holds a value of 2 and thus its isoceles.
+#And if the input is 3,3,3 then all these 3's are counted once and then the wc command would return the value of variable c as 1 and thus it would be equilateral.

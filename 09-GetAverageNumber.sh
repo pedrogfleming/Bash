@@ -1,6 +1,6 @@
 # Given N integers, compute their average, rounded to three decimal places.
 read num
-sum=0 .wwwwwwwwwwwwwwdwsad1
+sum=0 
 i=0
 while [ $i -lt $num ]
 do

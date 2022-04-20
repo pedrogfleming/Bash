@@ -1,1 +1,2 @@
 Edmund Spenser https://tldp.org/LDP/abs/html/why-shell.html
+https://learnxinyminutes.com/docs/bash/
